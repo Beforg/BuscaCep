@@ -8,8 +8,8 @@ Projeto do curso de Java com Orientação a Objetos da [Alura](https://cursos.al
 | -------------  | --- |
 | :sparkles: Nome        | **Buscador de Cep**
 | :label: Tecnologias | Java
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | 
+| :fire: Desafio     | 
 
 
 
