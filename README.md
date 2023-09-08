@@ -9,6 +9,8 @@ Projeto do curso de Java com Orientação a Objetos da [Alura](https://cursos.al
 - Consumindo uma API
 - Lidando com Exceptions
 
+Aqui os [arquivos .jar e .exe](https://drive.google.com/drive/folders/1otL1kjQbwxJ5MmqiPv9MlBhRQEQeBqHR?usp=drive_link)
+
 > ![](https://github.com/Beforg/assets/blob/main/imagem_2023-09-08_113336678.png)
 > <br>Layout
 
